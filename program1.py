@@ -7,8 +7,10 @@ if __name__== "__main__":
     execute_command()
 
 
-def display(display_input) :
+def display2(display_input) :
     print(display_input)
+
+#wap to print Hello world
 
 if __name__ =="__main__" :
     display("string")
@@ -16,3 +18,5 @@ if __name__ =="__main__" :
     display("1236")
     val = "89"
     display(val)
+#wap to print Hello world
+
