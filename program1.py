@@ -10,13 +10,13 @@ if __name__== "__main__":
 def display2(display_input) :
     print(display_input)
 
+#wap to print Hello world
+
 if __name__ =="__main__" :
     display("string")
     display("Hello Sir")
     display("1236")
     val = "89"
     display(val)
-#wap to print Hello world
-#wap to print Hello world
 #wap to print Hello world
 
